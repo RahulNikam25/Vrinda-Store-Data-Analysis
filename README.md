@@ -14,7 +14,8 @@ This project analyzes sales data of Vrinda Store to identify trends, customer be
 - Customer buying pattern: [insight]
 
 ## 📌 Dashboard Preview
-(Add screenshot here)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f048e1f-f947-44ef-a640-a0cde51d06b9" />
+
 
 ## 🚀 Conclusion
 This analysis helps in improving sales strategy and decision-making.
